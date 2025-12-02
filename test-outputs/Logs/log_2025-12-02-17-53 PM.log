@@ -1,0 +1,5 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:36)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:38)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber4
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.checkOutStep2Tc(TC05_overViewPage.java:64)] - fTest-2025-12-02-7-17-51PM fTest-2025-12-02-7-17-51PM 11475

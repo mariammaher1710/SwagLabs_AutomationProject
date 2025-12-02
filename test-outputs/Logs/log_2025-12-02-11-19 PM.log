@@ -1,0 +1,20 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC10_ProblemUserLogin.setup(TC10_ProblemUserLogin.java:27)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC10_ProblemUserLogin.setup(TC10_ProblemUserLogin.java:29)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test caseProblemLoginPageTCstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test caseProblemLoginPageTCsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC11_ProblemLandingPage.setup(TC11_ProblemLandingPage.java:28)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC11_ProblemLandingPage.setup(TC11_ProblemLandingPage.java:30)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test caseverifyErrorUserCartButtonBugstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products:6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfSelectedProducts(P02_LandingPage.java:61)] - numberOfSelectedProducts:3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.checkingIfCartHasSixItems(P02_LandingPage.java:100)] - Expected number of items in cart is 6 while the actual number is 3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfProductsOnCartIcon(P02_LandingPage.java:50)] - number of products on cart :3
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:31)] - ❌ TEST FAILED: verifyErrorUserCartButtonBug
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:32)] - Reason: java.lang.AssertionError: expected [true] but found [false]
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:50)] - ⚠ Screenshot capture failed: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\Abdel\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59919}, goog:processID: 14384, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59919/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC11_ProblemLandingPage.quit(TC11_ProblemLandingPage.java:58)] - Bug found!

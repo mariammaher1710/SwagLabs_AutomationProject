@@ -1,0 +1,5 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products:6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfProductsOnCartIcon(P02_LandingPage.java:50)] - number of products on cart :6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfSelectedProducts(P02_LandingPage.java:61)] - numberOfSelectedProducts:6

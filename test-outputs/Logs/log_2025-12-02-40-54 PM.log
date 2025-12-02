@@ -1,0 +1,55 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T03_CartPage.setup(T03_CartPage.java:28)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T03_CartPage.setup(T03_CartPage.java:30)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test casecomparingPricesTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber5
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:88)] - totalPrice23.98
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P03_CartPage.getTotalPriceOfProducts(P03_CartPage.java:28)] - totalPrice23.98
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test casecomparingPricesTcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:33)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC04_CheckOutPage.setup(TC04_CheckOutPage.java:35)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test casecheckOutStep1Tcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber1
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test casecheckOutStep1Tcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test caseaddingRandomProductsToCartstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber1
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber5
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfProductsOnCartIcon(P02_LandingPage.java:50)] - number of products on cart :3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfSelectedProducts(P02_LandingPage.java:61)] - numberOfSelectedProducts:3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test caseaddingRandomProductsToCartsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test casecheckingNumberOfSelectedProductsTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products:6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfProductsOnCartIcon(P02_LandingPage.java:50)] - number of products on cart :6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.getnumberOfSelectedProducts(P02_LandingPage.java:61)] - numberOfSelectedProducts:6
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test casecheckingNumberOfSelectedProductsTcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:23)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC02_LandingPage.setup(TC02_LandingPage.java:25)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test caseclickOnCartIconstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test caseclickOnCartIconsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.setup(TC06_CompletePage.java:31)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC06_CompletePage.setup(TC06_CompletePage.java:33)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test casefinishingOrderstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber3
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber4
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:31)] - ❌ TEST FAILED: finishingOrder
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:32)] - Reason: java.lang.AssertionError: ❌ حدث خطأ أثناء تنفيذ الاختبار: Expected condition failed: waiting for element to be clickable: By.id: finish (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\Abdel\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60659}, goog:processID: 14980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60659/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2811af57e032a8c5dd15a43109391c89
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:50)] - ⚠ Screenshot capture failed: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC01_LoginPage.setup(TC01_LoginPage.java:27)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC01_LoginPage.setup(TC01_LoginPage.java:29)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test casevalidLoginTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test casevalidLoginTcsuccess
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T02_LoginPageWithInvalidData.setup(T02_LoginPageWithInvalidData.java:27)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.T02_LoginPageWithInvalidData.setup(T02_LoginPageWithInvalidData.java:29)] - page isnt redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test casevalidLoginTcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestSuccess(CustomITestResult.java:22)] - test casevalidLoginTcsuccess

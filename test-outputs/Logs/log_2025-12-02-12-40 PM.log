@@ -1,0 +1,17 @@
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:32)] - chrome driver is opened
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.setup(TC05_overViewPage.java:34)] - page is redirected to url
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestStart(CustomITestResult.java:18)] - test casecheckOutStep2Tcstarted
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber2
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:72)] - randomNumber5
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [Tests.TC05_overViewPage.checkOutStep2Tc(TC05_overViewPage.java:48)] - fTest-2025-12-02-7-12-38PM fTest-2025-12-02-7-12-38PM 18973
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:31)] - ❌ TEST FAILED: checkOutStep2Tc
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:32)] - Reason: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".summary_subtotal_label"}
+  (Session info: chrome=142.0.7444.176)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ac43038c0b3d476c757e63d123307e9, findElement {using=class name, value=summary_subtotal_label}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\Abdel\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60000}, goog:processID: 3364, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60000/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ac43038c0b3d476c757e63d123307e9
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [Listeners.CustomITestResult.onTestFailure(CustomITestResult.java:50)] - ⚠ Screenshot capture failed: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "ts" is null

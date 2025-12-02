@@ -1,0 +1,7 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "problem_username": "problem_user",
+  "invalid username": "unable_user",
+  "verifyErrorMessage": "Epic sadface: Username and password do not match any user in this service"
+}
